@@ -1,6 +1,6 @@
 # Empowering job seekers with information beyond the stated job description
 
-<img align="right" src="https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/blog.png"> [Checkout the blog on Medium](https://medium.com/@rashmishree.veeraiah/empowering-job-seekers-in-the-market-with-information-above-and-beyond-the-stated-job-description-d0f98c753a4f)
+<img align="right" src="https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/blog.png"> [Checkout the Medium blog](https://medium.com/@rashmishree.veeraiah/empowering-job-seekers-in-the-market-with-information-above-and-beyond-the-stated-job-description-d0f98c753a4f)
 
 ### Motivation
 The job market is swiftly evolving with a focus on technology and sustainability. Job seekers now prioritize factors such as work culture and societal impact.
